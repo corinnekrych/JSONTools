@@ -12,33 +12,19 @@
 		48799D1C1C401C8E0005C59D /* JSONPatchGenerateTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 37A5005218FC9E0200A15B0F /* JSONPatchGenerateTests.m */; };
 		48799D1D1C401C8E0005C59D /* JSONSchemaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 37C8BA2C19106B74004D3E23 /* JSONSchemaTests.m */; };
 		48F658081C40158900A52858 /* JSONTools.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48F657E81C4014EB00A52858 /* JSONTools.framework */; };
-		48F6580E1C4015EE00A52858 /* JSONDeeplyMutable.h in Sources */ = {isa = PBXBuildFile; fileRef = 48F657C01C400FAE00A52858 /* JSONDeeplyMutable.h */; };
 		48F6580F1C4015EE00A52858 /* JSONDeeplyMutable.m in Sources */ = {isa = PBXBuildFile; fileRef = 48F657C11C400FAE00A52858 /* JSONDeeplyMutable.m */; };
-		48F658101C4015EE00A52858 /* JSONPatch.h in Sources */ = {isa = PBXBuildFile; fileRef = 48F657C21C400FAE00A52858 /* JSONPatch.h */; };
 		48F658111C4015EE00A52858 /* JSONPatch.m in Sources */ = {isa = PBXBuildFile; fileRef = 48F657C31C400FAE00A52858 /* JSONPatch.m */; };
-		48F658121C4015EE00A52858 /* JSONPatchArray.h in Sources */ = {isa = PBXBuildFile; fileRef = 48F657C41C400FAE00A52858 /* JSONPatchArray.h */; };
 		48F658131C4015EE00A52858 /* JSONPatchArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 48F657C51C400FAE00A52858 /* JSONPatchArray.m */; };
-		48F658141C4015EE00A52858 /* JSONPatchDictionary.h in Sources */ = {isa = PBXBuildFile; fileRef = 48F657C61C400FAE00A52858 /* JSONPatchDictionary.h */; };
 		48F658151C4015EE00A52858 /* JSONPatchDictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = 48F657C71C400FAE00A52858 /* JSONPatchDictionary.m */; };
-		48F658161C4015EE00A52858 /* JSONPatchInfo.h in Sources */ = {isa = PBXBuildFile; fileRef = 48F657C81C400FAE00A52858 /* JSONPatchInfo.h */; };
 		48F658171C4015EE00A52858 /* JSONPatchInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 48F657C91C400FAE00A52858 /* JSONPatchInfo.m */; };
-		48F658181C4015EE00A52858 /* JSONPointer.h in Sources */ = {isa = PBXBuildFile; fileRef = 48F657CA1C400FAE00A52858 /* JSONPointer.h */; };
 		48F658191C4015EE00A52858 /* JSONPointer.m in Sources */ = {isa = PBXBuildFile; fileRef = 48F657CB1C400FAE00A52858 /* JSONPointer.m */; };
-		48F6581A1C4015EE00A52858 /* JSONSchemaValidator.h in Sources */ = {isa = PBXBuildFile; fileRef = 48F657CC1C400FAE00A52858 /* JSONSchemaValidator.h */; };
 		48F6581B1C4015EE00A52858 /* JSONSchemaValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = 48F657CD1C400FAE00A52858 /* JSONSchemaValidator.m */; };
-		48F6581C1C4015EE00A52858 /* JSONTools-Prefix.pch in Sources */ = {isa = PBXBuildFile; fileRef = 48F657CE1C400FAE00A52858 /* JSONTools-Prefix.pch */; };
-		48F6581D1C4015EE00A52858 /* JSONTools.h in Sources */ = {isa = PBXBuildFile; fileRef = 48F657CF1C400FAE00A52858 /* JSONTools.h */; };
-		48F6581E1C4015EE00A52858 /* NSArray+JSONDeepMutable.h in Sources */ = {isa = PBXBuildFile; fileRef = 48F657D01C400FAE00A52858 /* NSArray+JSONDeepMutable.h */; };
 		48F6581F1C4015EE00A52858 /* NSArray+JSONDeepMutable.m in Sources */ = {isa = PBXBuildFile; fileRef = 48F657D11C400FAE00A52858 /* NSArray+JSONDeepMutable.m */; };
-		48F658201C4015EE00A52858 /* NSArray+JSONPointer.h in Sources */ = {isa = PBXBuildFile; fileRef = 48F657D21C400FAE00A52858 /* NSArray+JSONPointer.h */; };
 		48F658211C4015EE00A52858 /* NSArray+JSONPointer.m in Sources */ = {isa = PBXBuildFile; fileRef = 48F657D31C400FAE00A52858 /* NSArray+JSONPointer.m */; };
-		48F658221C4015EE00A52858 /* NSDictionary+JSONDeepMutable.h in Sources */ = {isa = PBXBuildFile; fileRef = 48F657D41C400FAE00A52858 /* NSDictionary+JSONDeepMutable.h */; };
 		48F658231C4015EE00A52858 /* NSDictionary+JSONDeepMutable.m in Sources */ = {isa = PBXBuildFile; fileRef = 48F657D51C400FAE00A52858 /* NSDictionary+JSONDeepMutable.m */; };
-		48F658241C4015EE00A52858 /* NSDictionary+JSONPointer.h in Sources */ = {isa = PBXBuildFile; fileRef = 48F657D61C400FAE00A52858 /* NSDictionary+JSONPointer.h */; };
 		48F658251C4015EE00A52858 /* NSDictionary+JSONPointer.m in Sources */ = {isa = PBXBuildFile; fileRef = 48F657D71C400FAE00A52858 /* NSDictionary+JSONPointer.m */; };
 		6AFA658F5476EEDD7AA68FE1 /* libPods-JSONToolsTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 39FDE358F51848868E4334BA /* libPods-JSONToolsTests.a */; };
 		F255E32BD66C626C019F78C9 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B35914385F39418EB4099917 /* libPods.a */; };
-		F3383CE387727DFA79307CED /* libPods-JSONTools.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4699FF5F02E065E041B9DBF5 /* libPods-JSONTools.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,7 +51,6 @@
 		37BDF4DC18FAF1DD00BF9705 /* JSONPointerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JSONPointerTests.m; sourceTree = "<group>"; };
 		37C8BA2C19106B74004D3E23 /* JSONSchemaTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSONSchemaTests.m; sourceTree = "<group>"; };
 		39FDE358F51848868E4334BA /* libPods-JSONToolsTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-JSONToolsTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4699FF5F02E065E041B9DBF5 /* libPods-JSONTools.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-JSONTools.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		48F657C01C400FAE00A52858 /* JSONDeeplyMutable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JSONDeeplyMutable.h; path = JSONTools/JSONDeeplyMutable.h; sourceTree = "<group>"; };
 		48F657C11C400FAE00A52858 /* JSONDeeplyMutable.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = JSONDeeplyMutable.m; path = JSONTools/JSONDeeplyMutable.m; sourceTree = "<group>"; };
 		48F657C21C400FAE00A52858 /* JSONPatch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JSONPatch.h; path = JSONTools/JSONPatch.h; sourceTree = "<group>"; };
@@ -105,7 +90,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F3383CE387727DFA79307CED /* libPods-JSONTools.a in Frameworks */,
 				F255E32BD66C626C019F78C9 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -165,7 +149,6 @@
 				37BDF4D118FAF1DD00BF9705 /* UIKit.framework */,
 				B35914385F39418EB4099917 /* libPods.a */,
 				39FDE358F51848868E4334BA /* libPods-JSONToolsTests.a */,
-				4699FF5F02E065E041B9DBF5 /* libPods-JSONTools.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -412,29 +395,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				48F6580E1C4015EE00A52858 /* JSONDeeplyMutable.h in Sources */,
 				48F6580F1C4015EE00A52858 /* JSONDeeplyMutable.m in Sources */,
-				48F658101C4015EE00A52858 /* JSONPatch.h in Sources */,
 				48F658111C4015EE00A52858 /* JSONPatch.m in Sources */,
-				48F658121C4015EE00A52858 /* JSONPatchArray.h in Sources */,
 				48F658131C4015EE00A52858 /* JSONPatchArray.m in Sources */,
-				48F658141C4015EE00A52858 /* JSONPatchDictionary.h in Sources */,
 				48F658151C4015EE00A52858 /* JSONPatchDictionary.m in Sources */,
-				48F658161C4015EE00A52858 /* JSONPatchInfo.h in Sources */,
 				48F658171C4015EE00A52858 /* JSONPatchInfo.m in Sources */,
-				48F658181C4015EE00A52858 /* JSONPointer.h in Sources */,
 				48F658191C4015EE00A52858 /* JSONPointer.m in Sources */,
-				48F6581A1C4015EE00A52858 /* JSONSchemaValidator.h in Sources */,
 				48F6581B1C4015EE00A52858 /* JSONSchemaValidator.m in Sources */,
-				48F6581C1C4015EE00A52858 /* JSONTools-Prefix.pch in Sources */,
-				48F6581D1C4015EE00A52858 /* JSONTools.h in Sources */,
-				48F6581E1C4015EE00A52858 /* NSArray+JSONDeepMutable.h in Sources */,
 				48F6581F1C4015EE00A52858 /* NSArray+JSONDeepMutable.m in Sources */,
-				48F658201C4015EE00A52858 /* NSArray+JSONPointer.h in Sources */,
 				48F658211C4015EE00A52858 /* NSArray+JSONPointer.m in Sources */,
-				48F658221C4015EE00A52858 /* NSDictionary+JSONDeepMutable.h in Sources */,
 				48F658231C4015EE00A52858 /* NSDictionary+JSONDeepMutable.m in Sources */,
-				48F658241C4015EE00A52858 /* NSDictionary+JSONPointer.h in Sources */,
 				48F658251C4015EE00A52858 /* NSDictionary+JSONPointer.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -569,6 +539,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = JSONTools/module.modulemap;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = org.jsontools.JSONTools;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -599,6 +570,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = JSONTools/module.modulemap;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = org.jsontools.JSONTools;
 				PRODUCT_NAME = "$(TARGET_NAME)";
