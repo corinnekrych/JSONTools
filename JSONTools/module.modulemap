@@ -1,0 +1,6 @@
+framework module JSONTools {
+  umbrella header "JSONTools.h"
+
+  export *
+  module * { export * }
+}

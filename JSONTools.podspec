@@ -16,6 +16,7 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/grgcombs/JSONTools.git", :tag => "v#{s.version}" }
   s.source_files = "JSONTools/*.{h,m}"
   s.public_header_files = "JSONTools/JSONTools.h", "JSONTools/JSONPointer.h", "JSONTools/JSONPatch.h", "JSONTools/JSONSchemaValidator.h"
+  s.module_map = "JSONTools/module.modulemap"
   s.dependency "KiteJSONValidator", '~> 0.2.2'
 
   s.requires_arc = true
