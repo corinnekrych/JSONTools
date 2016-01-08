@@ -10,4 +10,4 @@
 #import "JSONPointer.h"
 #import "JSONPatch.h"
 #import "JSONSchemaValidator.h"
-#import <KiteJSONValidator/KiteJSONValidator.h>
+#import <KiteJSONValidator/KiteJSONValidatorHeaders.h>
