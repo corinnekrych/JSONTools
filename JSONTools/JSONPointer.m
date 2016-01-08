@@ -8,6 +8,8 @@
 //  See LICENSE.txt for details.
 
 #import "JSONPointer.h"
+#import "NSArray+JSONPointer.h"
+#import "NSDictionary+JSONPointer.h"
 
 @implementation JSONPointer
 

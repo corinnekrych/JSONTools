@@ -9,6 +9,8 @@
 
 @import XCTest;
 #import "JSONPointer.h"
+#import "NSArray+JSONPointer.h"
+#import "NSDictionary+JSONPointer.h"
 
 @interface JSONPointerTests : XCTestCase
 @property (nonatomic,strong) NSDictionary *jsonRFC6901;

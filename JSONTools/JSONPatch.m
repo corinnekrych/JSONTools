@@ -12,6 +12,8 @@
 #import "JSONPatchArray.h"
 #import "JSONPointer.h"
 #import "JSONDeeplyMutable.h"
+#import "NSArray+JSONPointer.h"
+#import "NSDictionary+JSONPointer.h"
 
 @implementation JSONPatch
 
