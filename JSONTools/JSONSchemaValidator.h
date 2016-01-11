@@ -5,7 +5,10 @@
 //  Copyright (C) 2014 Gregory Combs [gcombs at gmail]
 //  See LICENSE.txt for details.
 
-#import <KiteJSONValidator/KiteJSONValidator.h>
+// For pod being published and dependent libs use @import module_name
+@import KiteJSONValidator;
+// To compile locally used
+//#import <KiteJSONValidator/KiteJSONValidator.h>
 
 @interface JSONSchemaValidator : KiteJSONValidator
 
